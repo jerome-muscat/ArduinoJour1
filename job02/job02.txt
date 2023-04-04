@@ -1,0 +1,4 @@
+il faut faire la différence entre les deux voltages :
+5 V - 2 V = 3 V
+R = I/U = 3 / 0,01  = 300 Ω
+il faudra donc une résistance de 300 Ω
